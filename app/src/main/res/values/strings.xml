@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SalladoDriver</string>
+    <string name="fa_close">&#xf00d;</string>
+    <string name="fa_edit">&#xf044;</string>
+</resources>

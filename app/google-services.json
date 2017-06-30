@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "524319677684",
+    "firebase_url": "https://fcmdemo-aa1ab.firebaseio.com",
+    "project_id": "fcmdemo-aa1ab",
+    "storage_bucket": "fcmdemo-aa1ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524319677684:android:a7be15213ddda4c7",
+        "android_client_info": {
+          "package_name": "com.realizer.sallado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524319677684-qhpkk93g7oltaa008jmj2bd7vrapn7fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realizer.sallado",
+            "certificate_hash": "581b08182ffe00490177b32f0a20d699870f553d"
+          }
+        },
+        {
+          "client_id": "524319677684-fvll2arv9q8vqvhgdasrec2qq8k38ufi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYRqNJp-5FT2sUtFRXhVIJU9r0YnagxZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524319677684-fvll2arv9q8vqvhgdasrec2qq8k38ufi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524319677684-e2eo103dg1pr76h3nmc0bjfli7rugnu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realizertech.com.Salado",
+                "app_store_id": "1234567890"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524319677684:android:309380bf4df3bd7a",
+        "android_client_info": {
+          "package_name": "com.realizer.salladodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524319677684-a7duno761g5jpbm0fi1mumb1ihprqsej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realizer.salladodriver",
+            "certificate_hash": "581b08182ffe00490177b32f0a20d699870f553d"
+          }
+        },
+        {
+          "client_id": "524319677684-fvll2arv9q8vqvhgdasrec2qq8k38ufi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYRqNJp-5FT2sUtFRXhVIJU9r0YnagxZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524319677684-fvll2arv9q8vqvhgdasrec2qq8k38ufi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524319677684-e2eo103dg1pr76h3nmc0bjfli7rugnu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realizertech.com.Salado",
+                "app_store_id": "1234567890"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
